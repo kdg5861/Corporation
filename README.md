@@ -3,7 +3,7 @@ Incomplete - For Inheritance Discussion
 
 To Run:
 
-1) 1) Compile each file
+1) Compile each file
 2) Open cmd in the associated folder
 3) Type 'java CorporationGUI' to run the program
 4) Choose a Drop-down menu to open various GUIs
